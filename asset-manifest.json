@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/covid-update/static/css/main.1602fac8.css",
+    "main.js": "/covid-update/static/js/main.6f1ec8df.js",
+    "static/media/image.png": "/covid-update/static/media/image.9e5d4fc7428c24bbc17d.png",
+    "index.html": "/covid-update/index.html",
+    "main.1602fac8.css.map": "/covid-update/static/css/main.1602fac8.css.map",
+    "main.6f1ec8df.js.map": "/covid-update/static/js/main.6f1ec8df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1602fac8.css",
+    "static/js/main.6f1ec8df.js"
+  ]
+}
